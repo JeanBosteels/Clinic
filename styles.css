@@ -58,3 +58,4 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 3px solid 
   .site-header { flex-direction: column; align-items: flex-start; }
   .hero h1 { font-size: 1.6rem; }
 }
+.card p { color: #0b6e4f; font-weight: 700; }
